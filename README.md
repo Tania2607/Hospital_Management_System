@@ -9,6 +9,7 @@ It allows hospital staff to add, view, and search for patient records using a si
 
 This project simulates a basic hospital management interface using object-oriented programming in C++.  
 It uses classes and vectors to manage dynamic patient records efficiently.
+🚧 No external database or file handling is implemented — all data is lost when the program exits. This can be a future extension.
 
 > ⚙️ Developed as a part of C++ practice project for beginner-level system design.
 
